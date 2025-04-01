@@ -90,7 +90,7 @@ export default function HowItWorksSection() {
                 </motion.div>
             </div>
 
-            <style jsx>{`
+            <style>{`
         @keyframes pulse-slow {
           0%, 100% { opacity: 0.1; }
           50% { opacity: 0.2; }
